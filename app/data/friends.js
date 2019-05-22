@@ -1,19 +1,99 @@
 var friends = [
 {
-    "name":"Spongebob",
-    "photo":"https://fsmedia.imgix.net/77/4f/7a/cf/6327/4cc2/a533/4fbb91a213ca/spongbob.jpeg?rect=0%2C47%2C750%2C375&auto=format%2Ccompress&dpr=2&w=650",
+    "name":"Paul Pogba",
+    "photo":"https://i.pinimg.com/564x/7e/50/3f/7e503faf77c742e8f1b00d6862d90d16.jpg",
+    "scores":[
+        3,
+        5,
+        4,
+        4,
+        4,
+        2,
+        5,
+        3,
+        2,
+        5
+      ]
+  },
+{
+    "name":"Cristiano Ronaldo",
+    "photo":"https://i.pinimg.com/564x/1a/6c/63/1a6c63582257256eec0c69c8e39b3c3a.jpg",
     "scores":[
         5,
+        2,
+        5,
+        5,
+        5,
+        4,
+        3,
+        5,
+        5,
+        4
+      ]
+  },
+{
+    "name":"Lionel Messi",
+    "photo":"https://i.pinimg.com/564x/48/13/be/4813be35fb60c70a91296e795e39faf4.jpg",
+    "scores":[
+        3,
+        5,
+        4,
+        4,
+        4,
         1,
-        4,
-        4,
+        1,
         5,
         1,
+        1
+      ]
+  },
+{
+    "name":"Neymar Jr.",
+    "photo":"https://i.pinimg.com/564x/0b/62/03/0b62035f90ece91ef30c814be5b6c307.jpg",
+    "scores":[
+        5,
+        3,
+        5,
+        4,
+        2,
+        5,
         2,
         5,
         4,
+        5
+      ]
+  },
+{
+    "name":"Virgil van Djik",
+    "photo":"https://i.pinimg.com/564x/25/70/94/257094a7bb91edbda8c80ee2ba630425.jpg",
+    "scores":[
+        2,
+        3,
+        1,
+        4,
+        5,
+        1,
+        5,
+        2,
+        2,
+        1
+      ]
+  },
+{
+    "name":"David de Gea",
+    "photo":"https://i.pinimg.com/564x/69/09/87/6909876ef703db1f17df765aac377ab7.jpg",
+    "scores":[
+        1,
+        5,
+        1,
+        1,
+        5,
+        2,
+        5,
+        1,
+        1,
         1
       ]
   }
-]
+];
 module.exports = friends; 
